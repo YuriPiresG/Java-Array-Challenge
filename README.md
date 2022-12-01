@@ -1,2 +1,2 @@
 In this project i was challenged to create a code who will ask the user 5 random int numbers, which will  be stored in one array, then the program will get those value and sort it(Desc, from higher to lower).
-# In this project i was challenged to create a code which will ask the user 5 int inputs, who will be stored in a array and then, the program, will return another array with those numbers sorted(Desc)
+
